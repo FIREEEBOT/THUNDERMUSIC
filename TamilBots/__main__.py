@@ -11,7 +11,7 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 start_text = """
 👋 𝗛𝗲𝗹𝗹𝗼 [{}](tg://user?id={}),
 
-\n\n𝗜 𝗔𝗺 🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭[🎶](https://telegra.ph/file/6cb884fe1cb943ec12df1.mp4)
+\n\n𝗜 𝗔𝗺 🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭[🎶](https://telegra.ph/file/43e492ce3e9a8bb5f67d5.jpg)
 
 I'M Music Bot By @ATOPBEGAR🤖
 
@@ -38,7 +38,7 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
            [[InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓 👬", url="http://t.me/TVA_AGENCY"),
              InlineKeyboardButton(
-                        text="𝐀𝐃𝐃 𝐌𝐄 🤗", url="http://t.me/SongProBot?startgroup=true"
+                        text="𝐀𝐃𝐃 𝐌𝐄 🤗", url="http://t.me/Thundermusicrobot?startgroup=true"
                     )
                 ]
             ]
