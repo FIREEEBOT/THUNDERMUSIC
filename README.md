@@ -2,9 +2,9 @@
 
 
 
-Repo : [THUNDER MUSIC 🎻](https://GitHub.Com/FIREEEBOT/THUNDERMUSIC)
+Repo : [ESdeath MUSIC 🎻](https://GitHub.Com/FIREEEBOT/THUNDERMUSIC)
 
-Bot : [THUNDER MUSIC 🧚‍](https://t.me/Thundermusicrobot)
+Bot : [ESDEATH MUSIC 🧚‍](https://t.me/esdeathsong_bot)
 
 ## SongPlayRoBot
 3X Fast Telethon Based Bot ⚜
@@ -21,10 +21,10 @@ Easy To Deploy 🤗
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FIREEEBOT/THUNDERMUSIC)
 
 ## Group
-You can also join our support group [HERE!](https://t.me/TVA_AGENCY) 👨🏻‍💻
+You can also join our support group [HERE!](https://t.me/cyber_punk1) 👨🏻‍💻
 
 # Report error
-Report your problem along with your name to This Person 📲 [ATOP🧑‍💻](https://t.me/ATOPBEGAR) 😪
+Report your problem along with your name to This Person 📲 [LUFFY🧑‍💻](https://t.me/LUFFYBABE) 😪
 
 
 
